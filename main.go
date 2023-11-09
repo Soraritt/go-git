@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello world  soraritt go-git")
+	fmt.Println("hello world soraritt chawapee go-git")
 }
 
 // 1 add    --> add file
